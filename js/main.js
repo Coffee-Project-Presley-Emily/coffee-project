@@ -15,6 +15,7 @@ var coffees = [
     {id: 12, name: 'Venomous Tentacula Juice', roast: 'dark'},
     {id: 13, name: 'Veritaserum', roast: 'dark'},
     {id: 14, name: 'Wiggenweld Potion', roast: 'dark'},
+    {id: 15, name: 'Expecto Patronum', roast: 'light'}
 ];
 
     // to invoke the function ( to save the new coffee)
